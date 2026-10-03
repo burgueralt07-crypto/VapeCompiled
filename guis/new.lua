@@ -116,67 +116,67 @@ end
 
 do
 	local vapeAssets = {
-		['newvape/assets/new/add.png'] = 'rbxassetid://121642387707174',
-		['newvape/assets/new/aim.png'] = 'rbxassetid://122207028123421',
-		['newvape/assets/new/allowedicon.png'] = 'rbxassetid://112336790299036',
-		['newvape/assets/new/allowediconmini.png'] = 'rbxassetid://90142384730147',
-		['newvape/assets/new/back.png'] = 'rbxassetid://80523803497740',
-		['newvape/assets/new/backmini.png'] = 'rbxassetid://85859225495272',
-		['newvape/assets/new/bind.png'] = 'rbxassetid://81399857677684',
-		['newvape/assets/new/bindbkg.png'] = 'rbxassetid://101996225428926',
-		['newvape/assets/new/blatant.png'] = 'rbxassetid://126929923309265',
-		['newvape/assets/new/blur.png'] = 'rbxassetid://79246816170155',
-		['newvape/assets/new/blurnoti.png'] = 'rbxassetid://124705876663719',
-		['newvape/assets/new/close.png'] = 'rbxassetid://121816018671466',
-		['newvape/assets/new/closemini.png'] = 'rbxassetid://108320409341289',
-		['newvape/assets/new/closetiny.png'] = 'rbxassetid://71393233149714',
-		['newvape/assets/new/colorpreview.png'] = 'rbxassetid://140438628568318',
-		['newvape/assets/new/combat.png'] = 'rbxassetid://94762732349053',
-		['newvape/assets/new/customtheme.png'] = 'rbxassetid://91756736022800',
-		['newvape/assets/new/discord.png'] = 'rbxassetid://99871463341003',
-		['newvape/assets/new/downexpand.png'] = 'rbxassetid://94197751291504',
-		['newvape/assets/new/downexpandslider.png'] = 'rbxassetid://90289944682645',
-		['newvape/assets/new/edit.png'] = 'rbxassetid://105801951237137',
-		['newvape/assets/new/editlarge.png'] = 'rbxassetid://119233876755282',
-		['newvape/assets/new/expandarrow.png'] = 'rbxassetid://86360332526471',
-		['newvape/assets/new/friends.png'] = 'rbxassetid://92957214042038',
-		['newvape/assets/new/inventory.png'] = 'rbxassetid://93264756888499',
-		['newvape/assets/new/legit_mode_icon.png'] = 'rbxassetid://102858626075156',
-		['newvape/assets/new/legit_switch.png'] = 'rbxassetid://127508881124779',
-		['newvape/assets/new/min.png'] = 'rbxassetid://82175054487146',
-		['newvape/assets/new/noti_alert.png'] = 'rbxassetid://82356478726846',
-		['newvape/assets/new/noti_info.png'] = 'rbxassetid://102614825645099',
-		['newvape/assets/new/noti_warning.png'] = 'rbxassetid://119631730212167',
-		['newvape/assets/new/notification.png'] = 'rbxassetid://90300780458781',
-		['newvape/assets/new/npcs.png'] = 'rbxassetid://104434365485227',
-		['newvape/assets/new/overlaydots.png'] = 'rbxassetid://78012624671930',
-		['newvape/assets/new/overlays.png'] = 'rbxassetid://136535637407545',
-		['newvape/assets/new/overlayslarge.png'] = 'rbxassetid://127574141208160',
-		['newvape/assets/new/pin.png'] = 'rbxassetid://92459145800579',
-		['newvape/assets/new/players.png'] = 'rbxassetid://105137446428129',
-		['newvape/assets/new/profiles.png'] = 'rbxassetid://126051451865127',
-		['newvape/assets/new/radar.png'] = 'rbxassetid://97983828696086',
-		['newvape/assets/new/rainbow_1.png'] = 'rbxassetid://101329996188554',
-		['newvape/assets/new/rainbow_2.png'] = 'rbxassetid://72739074644654',
-		['newvape/assets/new/rainbow_3.png'] = 'rbxassetid://100716555253397',
-		['newvape/assets/new/rainbow_4.png'] = 'rbxassetid://133424174227092',
-		['newvape/assets/new/range.png'] = 'rbxassetid://107794917650053',
-		['newvape/assets/new/rangeindicator.png'] = 'rbxassetid://107038094175283',
-		['newvape/assets/new/render.png'] = 'rbxassetid://125472576898654',
-		['newvape/assets/new/search.png'] = 'rbxassetid://115611852955611',
-		['newvape/assets/new/settingdots.png'] = 'rbxassetid://130896840048276',
-		['newvape/assets/new/settings.png'] = 'rbxassetid://73820177347303',
-		['newvape/assets/new/settingsmini.png'] = 'rbxassetid://115732118290997',
-		['newvape/assets/new/targetinfo.png'] = 'rbxassetid://121604266095276',
-		['newvape/assets/new/textgui.png'] = 'rbxassetid://99438663817412',
-		['newvape/assets/new/theme.png'] = 'rbxassetid://111525258317113',
-		['newvape/assets/new/utility.png'] = 'rbxassetid://108303206513893',
-		['newvape/assets/new/vape.png'] = 'rbxassetid://92153855792786',
-		['newvape/assets/new/vapelogo.png'] = 'rbxassetid://126205920310261',
-		['newvape/assets/new/vapelogomini.png'] = 'rbxassetid://109041903452149',
-		['newvape/assets/new/v4.png'] = 'rbxassetid://102549752760489',
-		['newvape/assets/new/v4mini.png'] = 'rbxassetid://115213099001611',
-		['newvape/assets/new/world.png'] = 'rbxassetid://118917453153459'
+		['vapeburguer/assets/new/add.png'] = 'rbxassetid://121642387707174',
+		['vapeburguer/assets/new/aim.png'] = 'rbxassetid://122207028123421',
+		['vapeburguer/assets/new/allowedicon.png'] = 'rbxassetid://112336790299036',
+		['vapeburguer/assets/new/allowediconmini.png'] = 'rbxassetid://90142384730147',
+		['vapeburguer/assets/new/back.png'] = 'rbxassetid://80523803497740',
+		['vapeburguer/assets/new/backmini.png'] = 'rbxassetid://85859225495272',
+		['vapeburguer/assets/new/bind.png'] = 'rbxassetid://81399857677684',
+		['vapeburguer/assets/new/bindbkg.png'] = 'rbxassetid://101996225428926',
+		['vapeburguer/assets/new/blatant.png'] = 'rbxassetid://126929923309265',
+		['vapeburguer/assets/new/blur.png'] = 'rbxassetid://79246816170155',
+		['vapeburguer/assets/new/blurnoti.png'] = 'rbxassetid://124705876663719',
+		['vapeburguer/assets/new/close.png'] = 'rbxassetid://121816018671466',
+		['vapeburguer/assets/new/closemini.png'] = 'rbxassetid://108320409341289',
+		['vapeburguer/assets/new/closetiny.png'] = 'rbxassetid://71393233149714',
+		['vapeburguer/assets/new/colorpreview.png'] = 'rbxassetid://140438628568318',
+		['vapeburguer/assets/new/combat.png'] = 'rbxassetid://94762732349053',
+		['vapeburguer/assets/new/customtheme.png'] = 'rbxassetid://91756736022800',
+		['vapeburguer/assets/new/discord.png'] = 'rbxassetid://99871463341003',
+		['vapeburguer/assets/new/downexpand.png'] = 'rbxassetid://94197751291504',
+		['vapeburguer/assets/new/downexpandslider.png'] = 'rbxassetid://90289944682645',
+		['vapeburguer/assets/new/edit.png'] = 'rbxassetid://105801951237137',
+		['vapeburguer/assets/new/editlarge.png'] = 'rbxassetid://119233876755282',
+		['vapeburguer/assets/new/expandarrow.png'] = 'rbxassetid://86360332526471',
+		['vapeburguer/assets/new/friends.png'] = 'rbxassetid://92957214042038',
+		['vapeburguer/assets/new/inventory.png'] = 'rbxassetid://93264756888499',
+		['vapeburguer/assets/new/legit_mode_icon.png'] = 'rbxassetid://102858626075156',
+		['vapeburguer/assets/new/legit_switch.png'] = 'rbxassetid://127508881124779',
+		['vapeburguer/assets/new/min.png'] = 'rbxassetid://82175054487146',
+		['vapeburguer/assets/new/noti_alert.png'] = 'rbxassetid://82356478726846',
+		['vapeburguer/assets/new/noti_info.png'] = 'rbxassetid://102614825645099',
+		['vapeburguer/assets/new/noti_warning.png'] = 'rbxassetid://119631730212167',
+		['vapeburguer/assets/new/notification.png'] = 'rbxassetid://90300780458781',
+		['vapeburguer/assets/new/npcs.png'] = 'rbxassetid://104434365485227',
+		['vapeburguer/assets/new/overlaydots.png'] = 'rbxassetid://78012624671930',
+		['vapeburguer/assets/new/overlays.png'] = 'rbxassetid://136535637407545',
+		['vapeburguer/assets/new/overlayslarge.png'] = 'rbxassetid://127574141208160',
+		['vapeburguer/assets/new/pin.png'] = 'rbxassetid://92459145800579',
+		['vapeburguer/assets/new/players.png'] = 'rbxassetid://105137446428129',
+		['vapeburguer/assets/new/profiles.png'] = 'rbxassetid://126051451865127',
+		['vapeburguer/assets/new/radar.png'] = 'rbxassetid://97983828696086',
+		['vapeburguer/assets/new/rainbow_1.png'] = 'rbxassetid://101329996188554',
+		['vapeburguer/assets/new/rainbow_2.png'] = 'rbxassetid://72739074644654',
+		['vapeburguer/assets/new/rainbow_3.png'] = 'rbxassetid://100716555253397',
+		['vapeburguer/assets/new/rainbow_4.png'] = 'rbxassetid://133424174227092',
+		['vapeburguer/assets/new/range.png'] = 'rbxassetid://107794917650053',
+		['vapeburguer/assets/new/rangeindicator.png'] = 'rbxassetid://107038094175283',
+		['vapeburguer/assets/new/render.png'] = 'rbxassetid://125472576898654',
+		['vapeburguer/assets/new/search.png'] = 'rbxassetid://115611852955611',
+		['vapeburguer/assets/new/settingdots.png'] = 'rbxassetid://130896840048276',
+		['vapeburguer/assets/new/settings.png'] = 'rbxassetid://73820177347303',
+		['vapeburguer/assets/new/settingsmini.png'] = 'rbxassetid://115732118290997',
+		['vapeburguer/assets/new/targetinfo.png'] = 'rbxassetid://121604266095276',
+		['vapeburguer/assets/new/textgui.png'] = 'rbxassetid://99438663817412',
+		['vapeburguer/assets/new/theme.png'] = 'rbxassetid://111525258317113',
+		['vapeburguer/assets/new/utility.png'] = 'rbxassetid://108303206513893',
+		['vapeburguer/assets/new/vape.png'] = 'rbxassetid://92153855792786',
+		['vapeburguer/assets/new/vapelogo.png'] = 'rbxassetid://126205920310261',
+		['vapeburguer/assets/new/vapelogomini.png'] = 'rbxassetid://109041903452149',
+		['vapeburguer/assets/new/v4.png'] = 'rbxassetid://102549752760489',
+		['vapeburguer/assets/new/v4mini.png'] = 'rbxassetid://115213099001611',
+		['vapeburguer/assets/new/world.png'] = 'rbxassetid://118917453153459'
 	}
 
 	local function createDownloader(text)
@@ -203,7 +203,7 @@ do
 			createDownloader(path)
 
 			local success, data = pcall(function()
-				return game:HttpGet('https://raw.githubusercontent.com/burgueralt07-crypto/VapeCompiled/'..readfile('newvape/profiles/commit.txt')..'/'..select(1, path:gsub('newvape/', '')), true)
+				return game:HttpGet('https://raw.githubusercontent.com/burgueralt07-crypto/VapeCompiled/'..readfile('vapeburguer/profiles/commit.txt')..'/'..select(1, path:gsub('vapeburguer/', '')), true)
 			end)
 
 			if not success or data == '404: Not Found' then
@@ -277,7 +277,7 @@ uipallet = {
 }
 
 do
-	local data = isfile('newvape/profiles/color.txt') and loadJson('newvape/profiles/color.txt')
+	local data = isfile('vapeburguer/profiles/color.txt') and loadJson('vapeburguer/profiles/color.txt')
 	if data then
 		uipallet.Main = data.Main and Color3.fromRGB(unpack(data.Main)) or uipallet.Main
 		uipallet.Text = data.Text and Color3.fromRGB(unpack(data.Text)) or uipallet.Text
@@ -307,7 +307,7 @@ local function addBlur(parent, notif, old)
 		blur.Size = UDim2.new(1, 89, 1, 52)
 		blur.Position = UDim2.fromOffset(-48, -31)
 		blur.BackgroundTransparency = 1
-		blur.Image = getvapeasset('newvape/assets/new/'..(notif and 'blurnoti' or 'blur')..'.png')
+		blur.Image = getvapeasset('vapeburguer/assets/new/'..(notif and 'blurnoti' or 'blur')..'.png')
 		blur.ScaleType = Enum.ScaleType.Slice
 		blur.SliceCenter = Rect.new(52, 31, 261, 502)
 		blur.Parent = parent
@@ -334,7 +334,7 @@ local function addCloseButton(parent, mini, offset)
 	close.AutoButtonColor = false
 	close.BackgroundColor3 = Color3.new(1, 1, 1)
 	close.BackgroundTransparency = 1
-	close.Image = getvapeasset('newvape/assets/new/'..(mini and 'closemini' or 'close')..'.png')
+	close.Image = getvapeasset('vapeburguer/assets/new/'..(mini and 'closemini' or 'close')..'.png')
 	close.ImageColor3 = color.Light(uipallet.Text, 0.2)
 	close.ImageTransparency = 0.5
 	close.Name = 'Close'
@@ -590,7 +590,7 @@ function vape:CreateNotification(title, text, duration, type)
 		local notification = Instance.new('ImageLabel')
 		notification.BackgroundTransparency = 1
 		notification.Position = UDim2.new(1, 0, 1, -(29 + (78 * index)))
-		notification.Image = getvapeasset('newvape/assets/new/notification.png')
+		notification.Image = getvapeasset('vapeburguer/assets/new/notification.png')
 		notification.ScaleType = Enum.ScaleType.Slice
 		notification.SliceCenter = Rect.new(7, 7, 9, 9)
 		notification.ZIndex = 5
@@ -598,7 +598,7 @@ function vape:CreateNotification(title, text, duration, type)
 		addBlur(notification, true, true)
 		local iconshadow = Instance.new('ImageLabel')
 		iconshadow.BackgroundTransparency = 1
-		iconshadow.Image = getvapeasset('newvape/assets/new/noti_'..(type or 'info')..'.png')
+		iconshadow.Image = getvapeasset('vapeburguer/assets/new/noti_'..(type or 'info')..'.png')
 		iconshadow.ImageColor3 = Color3.new()
 		iconshadow.ImageTransparency = 0.5
 		iconshadow.Position = UDim2.fromOffset(-5, -8)
@@ -684,8 +684,8 @@ function vape:Load(skipgui, profile)
 	local canSave = true
 	local toggleCount = 0
 
-	if isfile('newvape/profiles/'..game.GameId..'.gui.txt') then
-		guiData = loadJson('newvape/profiles/'..game.GameId..'.gui.txt')
+	if isfile('vapeburguer/profiles/'..game.GameId..'.gui.txt') then
+		guiData = loadJson('vapeburguer/profiles/'..game.GameId..'.gui.txt')
 		if not guiData then
 			guiData = {Categories = {}}
 			self:CreateNotification('Vape', 'Failed to load GUI settings.', 10, 'alert')
@@ -716,8 +716,8 @@ function vape:Load(skipgui, profile)
 		self.Categories.Profiles:ChangeValue('default', true)
 	end
 
-	if isfile('newvape/profiles/'..self.Profile..self.Place..'.txt') then
-		local mainData = loadJson('newvape/profiles/'..self.Profile..self.Place..'.txt')
+	if isfile('vapeburguer/profiles/'..self.Profile..self.Place..'.txt') then
+		local mainData = loadJson('vapeburguer/profiles/'..self.Profile..self.Place..'.txt')
 		if not mainData then
 			mainData = {Categories = {}, Modules = {}, Legit = {}}
 			self:CreateNotification('Vape', 'Failed to load '..self.Profile..' profile.', 10, 'alert')
@@ -779,7 +779,7 @@ function vape:Load(skipgui, profile)
 		button.Parent = gui
 		local image = Instance.new('ImageLabel')
 		image.BackgroundTransparency = 1
-		image.Image = getvapeasset('newvape/assets/new/vape.png')
+		image.Image = getvapeasset('vapeburguer/assets/new/vape.png')
 		image.Position = UDim2.fromOffset(6, 6)
 		image.Size = UDim2.fromOffset(20, 20)
 		image.Parent = button
@@ -880,43 +880,33 @@ function vape:LoadGUI()
 	
 	vape:CreateCategory({
 		Name = 'Combat',
-		Icon = getvapeasset('newvape/assets/new/combat.png'),
+		Icon = getvapeasset('vapeburguer/assets/new/combat.png'),
 		Size = UDim2.fromOffset(13, 14)
 	})
 	vape:CreateCategory({
 		Name = 'Blatant',
-		Icon = getvapeasset('newvape/assets/new/blatant.png'),
+		Icon = getvapeasset('vapeburguer/assets/new/blatant.png'),
 		Size = UDim2.fromOffset(14, 14)
 	})
 	vape:CreateCategory({
 		Name = 'Render',
-		Icon = getvapeasset('newvape/assets/new/render.png'),
+		Icon = getvapeasset('vapeburguer/assets/new/render.png'),
 		Size = UDim2.fromOffset(15, 14)
 	})
 	vape:CreateCategory({
 		Name = 'Utility',
-		Icon = getvapeasset('newvape/assets/new/utility.png'),
+		Icon = getvapeasset('vapeburguer/assets/new/utility.png'),
 		Size = UDim2.fromOffset(15, 14)
 	})
 	vape:CreateCategory({
 		Name = 'World',
-		Icon = getvapeasset('newvape/assets/new/world.png'),
+		Icon = getvapeasset('vapeburguer/assets/new/world.png'),
 		Size = UDim2.fromOffset(14, 14)
 	})
 	vape:CreateCategory({
 		Name = 'Inventory',
-		Icon = getvapeasset('newvape/assets/new/inventory.png'),
+		Icon = getvapeasset('vapeburguer/assets/new/inventory.png'),
 		Size = UDim2.fromOffset(15, 14)
-	})
-	vape:CreateCategory({
-		Name = 'realista',
-		Icon = getvapeasset('newvape/assets/new/world.png'),
-		Size = UDim2.fromOffset(16, 14)
-	})
-	vape:CreateCategory({
-		Name = 'farmRSS',
-		Icon = getvapeasset('newvape/assets/new/world.png'),
-		Size = UDim2.fromOffset(16, 14)
 	})
 	vape.Categories.Main:CreateDivider({
 		Text = 'misc'
@@ -935,7 +925,7 @@ function vape:LoadGUI()
 	
 		friends = vape:CreateCategoryList({
 			Name = 'Friends',
-			Icon = getvapeasset('newvape/assets/new/friends.png'),
+			Icon = getvapeasset('vapeburguer/assets/new/friends.png'),
 			Size = UDim2.fromOffset(17, 16),
 			Placeholder = 'Roblox username',
 			Color = Color3.fromRGB(5, 134, 105),
@@ -989,7 +979,7 @@ function vape:LoadGUI()
 	]]
 	vape:CreateCategoryList({
 		Name = 'Profiles',
-		Icon = getvapeasset('newvape/assets/new/profiles.png'),
+		Icon = getvapeasset('vapeburguer/assets/new/profiles.png'),
 		Size = UDim2.fromOffset(17, 10),
 		Position = UDim2.fromOffset(12, 16),
 		Placeholder = 'Type name',
@@ -1002,7 +992,7 @@ function vape:LoadGUI()
 	local targets
 	targets = vape:CreateCategoryList({
 		Name = 'Targets',
-		Icon = getvapeasset('newvape/assets/new/friends.png'),
+		Icon = getvapeasset('vapeburguer/assets/new/friends.png'),
 		Size = UDim2.fromOffset(17, 16),
 		Placeholder = 'Roblox username',
 		Player = true,
@@ -1093,15 +1083,15 @@ function vape:LoadGUI()
 		Name = 'Reset current profile',
 		Function = function()
 		vape.Save = function() end
-			if isfile('newvape/profiles/'..vape.Profile..vape.Place..'.txt') and delfile then
-				delfile('newvape/profiles/'..vape.Profile..vape.Place..'.txt')
+			if isfile('vapeburguer/profiles/'..vape.Profile..vape.Place..'.txt') and delfile then
+				delfile('vapeburguer/profiles/'..vape.Profile..vape.Place..'.txt')
 			end
 	
 			shared.vapereload = true
 			if shared.VapeDeveloper then
-				loadstring(readfile('newvape/loader.lua'), 'loader')()
+				loadstring(readfile('vapeburguer/loader.lua'), 'loader')()
 			else
-				loadstring(game:HttpGet('https://raw.githubusercontent.com/burgueralt07-crypto/VapeCompiled/'..readfile('newvape/profiles/commit.txt')..'/loader.lua', true))()
+				loadstring(game:HttpGet('https://raw.githubusercontent.com/burgueralt07-crypto/VapeCompiled/'..readfile('vapeburguer/profiles/commit.txt')..'/loader.lua', true))()
 			end
 		end,
 		Tooltip = 'This will set your profile to the default settings of Vape'
@@ -1120,9 +1110,9 @@ function vape:LoadGUI()
 		Function = function()
 			shared.vapereload = true
 			if shared.VapeDeveloper then
-				loadstring(readfile('newvape/loader.lua'), 'loader')()
+				loadstring(readfile('vapeburguer/loader.lua'), 'loader')()
 			else
-				loadstring(game:HttpGet('https://raw.githubusercontent.com/burgueralt07-crypto/VapeCompiled/'..readfile('newvape/profiles/commit.txt')..'/loader.lua', true))()
+				loadstring(game:HttpGet('https://raw.githubusercontent.com/burgueralt07-crypto/VapeCompiled/'..readfile('vapeburguer/profiles/commit.txt')..'/loader.lua', true))()
 			end
 		end,
 		Tooltip = 'Reloads vape for debugging purposes'
@@ -1250,12 +1240,12 @@ function vape:LoadGUI()
 		List = inputService.TouchEnabled and {'new', 'old'} or {'new', 'old', 'rise'},
 		Function = function(val, mouse)
 			if mouse then
-				writefile('newvape/profiles/gui.txt', val)
+				writefile('vapeburguer/profiles/gui.txt', val)
 				shared.vapereload = true
 				if shared.VapeDeveloper then
-					loadstring(readfile('newvape/loader.lua'), 'loader')()
+					loadstring(readfile('vapeburguer/loader.lua'), 'loader')()
 				else
-					loadstring(game:HttpGet('https://raw.githubusercontent.com/burgueralt07-crypto/VapeCompiled/'..readfile('newvape/profiles/commit.txt')..'/loader.lua', true))()
+					loadstring(game:HttpGet('https://raw.githubusercontent.com/burgueralt07-crypto/VapeCompiled/'..readfile('vapeburguer/profiles/commit.txt')..'/loader.lua', true))()
 				end
 			end
 		end,
@@ -1410,7 +1400,7 @@ function vape:LoadGUI()
 		
 		TextGUI = vape:CreateOverlay({
 			Name = 'Text GUI',
-			Icon = getvapeasset('newvape/assets/new/textgui.png'),
+			Icon = getvapeasset('vapeburguer/assets/new/textgui.png'),
 			Size = UDim2.fromOffset(16, 12),
 			Position = UDim2.fromOffset(12, 14),
 			Function = function()
@@ -1603,7 +1593,7 @@ function vape:LoadGUI()
 		Logo.BackgroundColor3 = Color3.new()
 		Logo.BackgroundTransparency = 1
 		Logo.BorderSizePixel = 0
-		Logo.Image = getvapeasset('newvape/assets/new/vapelogo.png')
+		Logo.Image = getvapeasset('vapeburguer/assets/new/vapelogo.png')
 		Logo.Name = 'Logo'
 		Logo.Position = UDim2.new(1, -142, 0, 3)
 		Logo.Size = UDim2.fromOffset(81, 24)
@@ -1613,7 +1603,7 @@ function vape:LoadGUI()
 		LogoV4.BackgroundColor3 = Color3.new()
 		LogoV4.BackgroundTransparency = 1
 		LogoV4.BorderSizePixel = 0
-		LogoV4.Image = getvapeasset('newvape/assets/new/v4.png')
+		LogoV4.Image = getvapeasset('vapeburguer/assets/new/v4.png')
 		LogoV4.Name = 'Logo2'
 		LogoV4.Position = UDim2.new(1, -1, 0, 0)
 		LogoV4.Size = UDim2.fromOffset(35, 24)
@@ -1920,7 +1910,7 @@ function vape:LoadGUI()
 		
 		TargetInfoOverlay = vape:CreateOverlay({
 			Name = 'Target Info',
-			Icon = getvapeasset('newvape/assets/new/targetinfo.png'),
+			Icon = getvapeasset('vapeburguer/assets/new/targetinfo.png'),
 			Size = UDim2.fromOffset(14, 14),
 			Position = UDim2.fromOffset(12, 14),
 			CategorySize = 240,
@@ -2362,8 +2352,8 @@ function vape:Save(newProfile)
 		module:Save(mainData.Legit)
 	end
 
-	writefile('newvape/profiles/'..game.GameId..'.gui.txt', httpService:JSONEncode(guiData))
-	writefile('newvape/profiles/'..self.Profile..self.Place..'.txt', httpService:JSONEncode(mainData))
+	writefile('vapeburguer/profiles/'..game.GameId..'.gui.txt', httpService:JSONEncode(guiData))
+	writefile('vapeburguer/profiles/'..self.Profile..self.Place..'.txt', httpService:JSONEncode(mainData))
 end
 
 function vape:SaveOptions(obj)
@@ -2526,7 +2516,7 @@ components = {
 		end)
 		local icon = Instance.new('ImageLabel')
 		icon.BackgroundTransparency = 1
-		icon.Image = getvapeasset('newvape/assets/new/bind.png')
+		icon.Image = getvapeasset('vapeburguer/assets/new/bind.png')
 		icon.ImageColor3 = color.Dark(uipallet.Text, 0.43)
 		icon.Name = 'Icon'
 		icon.Position = UDim2.new(0.5, -5, 0, 5)
@@ -2549,7 +2539,7 @@ components = {
 			if props.Cover then
 				cover = Instance.new('ImageLabel')
 				cover.BackgroundTransparency = 1
-				cover.Image = getvapeasset('newvape/assets/new/bindbkg.png')
+				cover.Image = getvapeasset('vapeburguer/assets/new/bindbkg.png')
 				cover.Name = 'Cover'
 				cover.ScaleType = Enum.ScaleType.Slice
 				cover.SliceCenter = Rect.new(0, 0, 141, 40)
@@ -2693,7 +2683,7 @@ components = {
 			self.Keys = table.clone(keys)
 		
 			if mouse then
-				icon.Image = getvapeasset('newvape/assets/new/edit.png')
+				icon.Image = getvapeasset('vapeburguer/assets/new/edit.png')
 		
 				if cover then
 					coverlabel.Text = #keys <= 0 and 'BIND REMOVED' or 'BOUND TO'
@@ -2747,7 +2737,7 @@ components = {
 		bind.MouseEnter:Connect(function()
 			label.Visible = false
 			icon.Visible = not label.Visible
-			icon.Image = getvapeasset(component.Binding and 'newvape/assets/new/close.png' or 'newvape/assets/new/edit.png')
+			icon.Image = getvapeasset(component.Binding and 'vapeburguer/assets/new/close.png' or 'vapeburguer/assets/new/edit.png')
 		
 			if not props.Cover or not api.Enabled then
 				icon.ImageColor3 = color.Dark(uipallet.Text, 0.16)
@@ -2757,7 +2747,7 @@ components = {
 		bind.MouseLeave:Connect(function()
 			label.Visible = #component.Keys > 0
 			icon.Visible = not label.Visible
-			icon.Image = getvapeasset(component.Binding and 'newvape/assets/new/close.png' or 'newvape/assets/new/bind.png')
+			icon.Image = getvapeasset(component.Binding and 'vapeburguer/assets/new/close.png' or 'vapeburguer/assets/new/bind.png')
 		
 			if not props.Cover or not api.Enabled then
 				icon.ImageColor3 = color.Dark(uipallet.Text, 0.43)
@@ -2790,7 +2780,7 @@ components = {
 			end
 		
 			component.Binding = true
-			icon.Image = getvapeasset('newvape/assets/new/close.png')
+			icon.Image = getvapeasset('vapeburguer/assets/new/close.png')
 			vape.Binding = component
 		end)
 		
@@ -2893,7 +2883,7 @@ components = {
 		addTooltip(pencilbutton, 'Edit hidden modules')
 		local pencil = Instance.new('ImageLabel')
 		pencil.BackgroundTransparency = 1
-		pencil.Image = getvapeasset('newvape/assets/new/editlarge.png')
+		pencil.Image = getvapeasset('vapeburguer/assets/new/editlarge.png')
 		pencil.ImageColor3 = Color3.fromRGB(140, 140, 140)
 		pencil.Size = UDim2.fromOffset(12, 12)
 		pencil.Position = UDim2.fromOffset(4, 14)
@@ -2906,7 +2896,7 @@ components = {
 		arrowbutton.Parent = window
 		local arrow = Instance.new('ImageLabel')
 		arrow.BackgroundTransparency = 1
-		arrow.Image = getvapeasset('newvape/assets/new/downexpand.png')
+		arrow.Image = getvapeasset('vapeburguer/assets/new/downexpand.png')
 		arrow.ImageColor3 = Color3.fromRGB(140, 140, 140)
 		arrow.Size = UDim2.fromOffset(9, 4)
 		arrow.Position = UDim2.fromOffset(9, 18)
@@ -3162,7 +3152,7 @@ components = {
 		arrow.Size = UDim2.fromOffset(9, 4)
 		arrow.Position = UDim2.fromOffset(15, 20)
 		arrow.BackgroundTransparency = 1
-		arrow.Image = getvapeasset('newvape/assets/new/downexpand.png')
+		arrow.Image = getvapeasset('vapeburguer/assets/new/downexpand.png')
 		arrow.ImageColor3 = Color3.fromRGB(140, 140, 140)
 		arrow.Rotation = 180
 		arrow.Parent = arrowbutton
@@ -3185,7 +3175,7 @@ components = {
 		local settings = Instance.new('ImageButton')
 		settings.AutoButtonColor = false
 		settings.BackgroundTransparency = 1
-		settings.Image = getvapeasset('newvape/assets/new/settings.png')
+		settings.Image = getvapeasset('vapeburguer/assets/new/settings.png')
 		settings.ImageColor3 = color.Dark(uipallet.Text, 0.43)
 		settings.Name = 'Settings'
 		settings.Position = UDim2.new(1, -56, 0, 15)
@@ -3254,7 +3244,7 @@ components = {
 		end
 		local addbutton = Instance.new('ImageButton')
 		addbutton.BackgroundTransparency = 1
-		addbutton.Image = getvapeasset('newvape/assets/new/add.png')
+		addbutton.Image = getvapeasset('vapeburguer/assets/new/add.png')
 		addbutton.ImageColor3 = props.Color
 		addbutton.ImageTransparency = 0.3
 		addbutton.Position = UDim2.new(1, -26, 0, 8)
@@ -3300,8 +3290,8 @@ components = {
 							profile.Bind:Destroy()
 							table.remove(self.List, index)
 		
-							if isfile('newvape/profiles/'..value..vape.Place..'.txt') and delfile then
-								delfile('newvape/profiles/'..value..vape.Place..'.txt')
+							if isfile('vapeburguer/profiles/'..value..vape.Place..'.txt') and delfile then
+								delfile('vapeburguer/profiles/'..value..vape.Place..'.txt')
 							end
 						end
 					else
@@ -3369,7 +3359,7 @@ components = {
 					dotsbutton.Parent = obj
 					local dots = Instance.new('ImageLabel')
 					dots.BackgroundTransparency = 1
-					dots.Image = getvapeasset('newvape/assets/new/settingdots.png')
+					dots.Image = getvapeasset('vapeburguer/assets/new/settingdots.png')
 					dots.ImageColor3 = color.Light(uipallet.Main, 0.37)
 					dots.Name = 'Dots'
 					dots.Position = UDim2.fromOffset(11, 9)
@@ -3465,7 +3455,7 @@ components = {
 					close.AutoButtonColor = false
 					close.BackgroundColor3 = Color3.new(1, 1, 1)
 					close.BackgroundTransparency = 1
-					close.Image = getvapeasset('newvape/assets/new/closetiny.png')
+					close.Image = getvapeasset('vapeburguer/assets/new/closetiny.png')
 					close.ImageColor3 = color.Light(uipallet.Text, 0.2)
 					close.ImageTransparency = 0.5
 					close.Position = UDim2.new(1, -27, 0, 8)
@@ -3906,7 +3896,7 @@ components = {
 		addCorner(knob, UDim.new(1, 0))
 		local preview = Instance.new('ImageButton')
 		preview.BackgroundTransparency = 1
-		preview.Image = getvapeasset('newvape/assets/new/colorpreview.png')
+		preview.Image = getvapeasset('vapeburguer/assets/new/colorpreview.png')
 		preview.ImageColor3 = Color3.fromHSV(component.Hue, component.Sat, component.Value)
 		preview.ImageTransparency = 1 - component.Opacity
 		preview.Position = UDim2.new(1, -22, 0, 10)
@@ -3920,7 +3910,7 @@ components = {
 		expand.Parent = colorslider
 		local icon = Instance.new('ImageLabel')
 		icon.BackgroundTransparency = 1
-		icon.Image = getvapeasset('newvape/assets/new/downexpandslider.png')
+		icon.Image = getvapeasset('vapeburguer/assets/new/downexpandslider.png')
 		icon.ImageColor3 = color.Dark(uipallet.Text, 0.43)
 		icon.Position = UDim2.fromOffset(4, 4)
 		icon.Size = UDim2.fromOffset(10, 5)
@@ -3933,18 +3923,18 @@ components = {
 		rainbow.Parent = colorslider
 		local ring1 = Instance.new('ImageLabel')
 		ring1.BackgroundTransparency = 1
-		ring1.Image = getvapeasset('newvape/assets/new/rainbow_1.png')
+		ring1.Image = getvapeasset('vapeburguer/assets/new/rainbow_1.png')
 		ring1.ImageColor3 = color.Light(uipallet.Main, 0.37)
 		ring1.Size = UDim2.fromOffset(12, 12)
 		ring1.Parent = rainbow
 		local ring2 = Instance.fromExisting(ring1)
-		ring2.Image = getvapeasset('newvape/assets/new/rainbow_2.png')
+		ring2.Image = getvapeasset('vapeburguer/assets/new/rainbow_2.png')
 		ring2.Parent = rainbow
 		local ring3 = Instance.fromExisting(ring1)
-		ring3.Image = getvapeasset('newvape/assets/new/rainbow_3.png')
+		ring3.Image = getvapeasset('vapeburguer/assets/new/rainbow_3.png')
 		ring3.Parent = rainbow
 		local ring4 = Instance.fromExisting(ring1)
-		ring4.Image = getvapeasset('newvape/assets/new/rainbow_4.png')
+		ring4.Image = getvapeasset('vapeburguer/assets/new/rainbow_4.png')
 		ring4.Parent = rainbow
 		props.Function = props.Function or function() end
 		
@@ -4233,7 +4223,7 @@ components = {
 		addCorner(button, UDim.new(0, 6))
 		local arrow = Instance.new('ImageLabel')
 		arrow.BackgroundTransparency = 1
-		arrow.Image = getvapeasset('newvape/assets/new/expandarrow.png')
+		arrow.Image = getvapeasset('vapeburguer/assets/new/expandarrow.png')
 		arrow.ImageColor3 = Color3.fromRGB(140, 140, 140)
 		arrow.Position = UDim2.new(1, -17, 0, 11)
 		arrow.Rotation = 90
@@ -4420,7 +4410,7 @@ components = {
 		addDragHandler(window)
 		local logo = Instance.new('ImageLabel')
 		logo.BackgroundTransparency = 1
-		logo.Image = getvapeasset('newvape/assets/new/vapelogomini.png')
+		logo.Image = getvapeasset('vapeburguer/assets/new/vapelogomini.png')
 		logo.ImageColor3 = select(3, uipallet.Main:ToHSV()) > 0.5 and uipallet.Text or Color3.new(1, 1, 1)
 		logo.Name = 'VapeLogo'
 		logo.Position = UDim2.fromOffset(12, 11)
@@ -4428,7 +4418,7 @@ components = {
 		logo.Parent = window
 		local v4logo = Instance.new('ImageLabel')
 		v4logo.BackgroundTransparency = 1
-		v4logo.Image = getvapeasset('newvape/assets/new/v4mini.png')
+		v4logo.Image = getvapeasset('vapeburguer/assets/new/v4mini.png')
 		v4logo.Name = 'V4Logo'
 		v4logo.Position = UDim2.new(1, -1, 0, 0)
 		v4logo.Size = UDim2.fromOffset(23, 16)
@@ -4451,14 +4441,14 @@ components = {
 		addTooltip(settingsbutton, 'Open settings')
 		local settingsicon = Instance.new('ImageLabel')
 		settingsicon.BackgroundTransparency = 1
-		settingsicon.Image = getvapeasset('newvape/assets/new/settings.png')
+		settingsicon.Image = getvapeasset('vapeburguer/assets/new/settings.png')
 		settingsicon.ImageColor3 = color.Light(uipallet.Main, 0.37)
 		settingsicon.Position = UDim2.fromOffset(15, 12)
 		settingsicon.Size = UDim2.fromOffset(14, 14)
 		settingsicon.Parent = settingsbutton
 		local discord = Instance.new('ImageButton')
 		discord.BackgroundTransparency = 1
-		discord.Image = getvapeasset('newvape/assets/new/discord.png')
+		discord.Image = getvapeasset('vapeburguer/assets/new/discord.png')
 		discord.Position = UDim2.new(1, -56, 0, 11)
 		discord.Size = UDim2.fromOffset(16, 16)
 		discord.Parent = window
@@ -4634,7 +4624,7 @@ components = {
 		
 		local arrow = Instance.new('ImageLabel')
 		arrow.BackgroundTransparency = 1
-		arrow.Image = getvapeasset('newvape/assets/new/expandarrow.png')
+		arrow.Image = getvapeasset('vapeburguer/assets/new/expandarrow.png')
 		arrow.ImageColor3 = color.Light(uipallet.Main, 0.37)
 		arrow.Name = 'Arrow'
 		arrow.Position = UDim2.new(1, -20, 0, 16)
@@ -4870,7 +4860,7 @@ components = {
 		end
 		local preview = Instance.new('ImageButton')
 		preview.BackgroundTransparency = 1
-		preview.Image = getvapeasset('newvape/assets/new/colorpreview.png')
+		preview.Image = getvapeasset('vapeburguer/assets/new/colorpreview.png')
 		preview.ImageColor3 = Color3.fromHSV(component.Hue, component.Sat, component.Value)
 		preview.Position = UDim2.new(1, -22, 0, 10)
 		preview.Size = UDim2.fromOffset(12, 12)
@@ -4894,7 +4884,7 @@ components = {
 		expand.Parent = slider
 		local icon = Instance.new('ImageLabel')
 		icon.BackgroundTransparency = 1
-		icon.Image = getvapeasset('newvape/assets/new/downexpandslider.png')
+		icon.Image = getvapeasset('vapeburguer/assets/new/downexpandslider.png')
 		icon.ImageColor3 = color.Dark(uipallet.Text, 0.43)
 		icon.Position = UDim2.fromOffset(4, 4)
 		icon.Size = UDim2.fromOffset(10, 5)
@@ -4907,22 +4897,22 @@ components = {
 		rainbow.Parent = slider
 		local ring1 = Instance.new('ImageLabel')
 		ring1.BackgroundTransparency = 1
-		ring1.Image = getvapeasset('newvape/assets/new/rainbow_1.png')
+		ring1.Image = getvapeasset('vapeburguer/assets/new/rainbow_1.png')
 		ring1.ImageColor3 = color.Light(uipallet.Main, 0.37)
 		ring1.Size = UDim2.fromOffset(12, 12)
 		ring1.Parent = rainbow
 		local ring2 = Instance.fromExisting(ring1)
-		ring2.Image = getvapeasset('newvape/assets/new/rainbow_2.png')
+		ring2.Image = getvapeasset('vapeburguer/assets/new/rainbow_2.png')
 		ring2.Parent = rainbow
 		local ring3 = Instance.fromExisting(ring1)
-		ring3.Image = getvapeasset('newvape/assets/new/rainbow_3.png')
+		ring3.Image = getvapeasset('vapeburguer/assets/new/rainbow_3.png')
 		ring3.Parent = rainbow
 		local ring4 = Instance.fromExisting(ring1)
-		ring4.Image = getvapeasset('newvape/assets/new/rainbow_4.png')
+		ring4.Image = getvapeasset('vapeburguer/assets/new/rainbow_4.png')
 		ring4.Parent = rainbow
 		local knob = Instance.new('ImageLabel')
 		knob.BackgroundTransparency = 1
-		knob.Image = getvapeasset('newvape/assets/new/theme.png')
+		knob.Image = getvapeasset('vapeburguer/assets/new/theme.png')
 		knob.ImageColor3 = colors[4]
 		knob.Name = 'Knob'
 		knob.Position = UDim2.fromOffset(colorPositions[4] - 3, -5)
@@ -4945,8 +4935,8 @@ components = {
 			ColorSequenceKeypoint.new(1, Color3.fromHSV(component.Hue, component.Sat, 1))
 		}))
 		
-		local normalknob = getvapeasset('newvape/assets/new/theme.png')
-		local rainbowknob = getvapeasset('newvape/assets/new/customtheme.png')
+		local normalknob = getvapeasset('vapeburguer/assets/new/theme.png')
+		local rainbowknob = getvapeasset('vapeburguer/assets/new/customtheme.png')
 		local rainbowthread
 		local currentNotch
 		
@@ -5323,7 +5313,7 @@ components = {
 		dotsbutton.Parent = button
 		local dots = Instance.new('ImageLabel')
 		dots.BackgroundTransparency = 1
-		dots.Image = getvapeasset('newvape/assets/new/overlaydots.png')
+		dots.Image = getvapeasset('vapeburguer/assets/new/overlaydots.png')
 		dots.ImageColor3 = color.Light(uipallet.Main, 0.37)
 		dots.Name = 'Dots'
 		dots.Position = UDim2.fromOffset(6, 6)
@@ -5363,7 +5353,7 @@ components = {
 		back.Size = UDim2.fromOffset(16, 16)
 		back.Position = UDim2.fromOffset(11, 13)
 		back.BackgroundTransparency = 1
-		back.Image = getvapeasset('newvape/assets/new/back.png')
+		back.Image = getvapeasset('vapeburguer/assets/new/back.png')
 		back.ImageColor3 = color.Light(uipallet.Main, 0.37)
 		back.Parent = settingspane
 		addCorner(settingspane)
@@ -5602,14 +5592,14 @@ components = {
 		modal.Parent = window
 		local icon = Instance.new('ImageLabel')
 		icon.BackgroundTransparency = 1
-		icon.Image = getvapeasset('newvape/assets/new/legit_mode_icon.png')
+		icon.Image = getvapeasset('vapeburguer/assets/new/legit_mode_icon.png')
 		icon.ImageColor3 = uipallet.Text
 		icon.Position = UDim2.fromOffset(18, 11)
 		icon.Size = UDim2.fromOffset(16, 16)
 		icon.Parent = window
 		local close = Instance.new('ImageButton')
 		close.BackgroundTransparency = 1
-		close.Image = getvapeasset('newvape/assets/new/min.png')
+		close.Image = getvapeasset('vapeburguer/assets/new/min.png')
 		close.ImageColor3 = color.Light(uipallet.Main, 0.24)
 		close.Position = UDim2.new(1, -31, 0, 11)
 		close.Size = UDim2.fromOffset(16, 16)
@@ -5625,7 +5615,7 @@ components = {
 		stroke.Parent = holder
 		local searchicon = Instance.new('ImageLabel')
 		searchicon.BackgroundTransparency = 1
-		searchicon.Image = getvapeasset('newvape/assets/new/search.png')
+		searchicon.Image = getvapeasset('vapeburguer/assets/new/search.png')
 		searchicon.ImageColor3 = color.Light(uipallet.Main, 0.42)
 		searchicon.Position = UDim2.new(1, -25, 0, 9)
 		searchicon.Size = UDim2.fromOffset(12, 12)
@@ -5783,7 +5773,7 @@ components = {
 		dotsbutton.Parent = button
 		local dots = Instance.new('ImageLabel')
 		dots.BackgroundTransparency = 1
-		dots.Image = getvapeasset('newvape/assets/new/settingdots.png')
+		dots.Image = getvapeasset('vapeburguer/assets/new/settingdots.png')
 		dots.ImageColor3 = color.Light(uipallet.Main, 0.37)
 		dots.Name = 'Dots'
 		dots.Position = UDim2.fromOffset(4, 12)
@@ -6151,7 +6141,7 @@ components = {
 		pin.Position = UDim2.new(1, -37, 0, 14)
 		pin.BackgroundTransparency = 1
 		pin.AutoButtonColor = false
-		pin.Image = getvapeasset('newvape/assets/new/pin.png')
+		pin.Image = getvapeasset('vapeburguer/assets/new/pin.png')
 		pin.ImageColor3 = color.Dark(uipallet.Text, 0.43)
 		pin.Parent = window
 		local dotsbutton = Instance.new('TextButton')
@@ -6163,7 +6153,7 @@ components = {
 		dotsbutton.Parent = window
 		local dots = Instance.new('ImageLabel')
 		dots.BackgroundTransparency = 1
-		dots.Image = getvapeasset('newvape/assets/new/overlaydots.png')
+		dots.Image = getvapeasset('vapeburguer/assets/new/overlaydots.png')
 		dots.ImageColor3 = color.Light(uipallet.Main, 0.37)
 		dots.Position = UDim2.fromOffset(5, 15)
 		dots.Size = UDim2.fromOffset(2, 12)
@@ -6347,7 +6337,7 @@ components = {
 		local button = Instance.new('ImageButton')
 		button.AutoButtonColor = false
 		button.BackgroundTransparency = 1
-		button.Image = getvapeasset('newvape/assets/new/overlays.png')
+		button.Image = getvapeasset('vapeburguer/assets/new/overlays.png')
 		button.ImageColor3 = color.Light(uipallet.Main, 0.37)
 		button.Position = UDim2.new(1, -34, 0, 7)
 		button.Size = UDim2.fromOffset(24, 24)
@@ -6373,7 +6363,7 @@ components = {
 		addCorner(window)
 		local icon = Instance.new('ImageLabel')
 		icon.BackgroundTransparency = 1
-		icon.Image = getvapeasset('newvape/assets/new/overlayslarge.png')
+		icon.Image = getvapeasset('vapeburguer/assets/new/overlayslarge.png')
 		icon.ImageColor3 = uipallet.Text
 		icon.Position = UDim2.fromOffset(10, 13)
 		icon.Size = UDim2.fromOffset(14, 12)
@@ -6505,14 +6495,14 @@ components = {
 		addCorner(search)
 		local icon = Instance.new('ImageLabel')
 		icon.BackgroundTransparency = 1
-		icon.Image = getvapeasset('newvape/assets/new/search.png')
+		icon.Image = getvapeasset('vapeburguer/assets/new/search.png')
 		icon.ImageColor3 = color.Light(uipallet.Main, 0.37)
 		icon.Position = UDim2.new(1, -25, 0, 11)
 		icon.Size = UDim2.fromOffset(14, 14)
 		icon.Parent = search
 		local legiticon = Instance.new('ImageButton')
 		legiticon.BackgroundTransparency = 1
-		legiticon.Image = getvapeasset('newvape/assets/new/legit_switch.png')
+		legiticon.Image = getvapeasset('vapeburguer/assets/new/legit_switch.png')
 		legiticon.Name = 'Legit'
 		legiticon.Position = UDim2.fromOffset(8, 11)
 		legiticon.Size = UDim2.fromOffset(29, 16)
@@ -6662,7 +6652,7 @@ components = {
 		local close = addCloseButton(pane, true)
 		local back = Instance.new('ImageButton')
 		back.BackgroundTransparency = 1
-		back.Image = getvapeasset('newvape/assets/new/backmini.png')
+		back.Image = getvapeasset('vapeburguer/assets/new/backmini.png')
 		back.ImageColor3 = color.Light(uipallet.Main, 0.37)
 		back.Position = UDim2.fromOffset(12, 14)
 		back.Size = UDim2.fromOffset(14, 14)
@@ -6694,7 +6684,7 @@ components = {
 			versionlabel.Position = UDim2.new(0, 0, 1, -16)
 			versionlabel.Size = UDim2.new(1, 0, 0, 16)
 			versionlabel.Text = 'Vape '..vape.Version..' '..(
-				isfile('newvape/profiles/commit.txt') and readfile('newvape/profiles/commit.txt'):sub(1, 6) or ''
+				isfile('vapeburguer/profiles/commit.txt') and readfile('vapeburguer/profiles/commit.txt'):sub(1, 6) or ''
 			)..' '
 			versionlabel.TextColor3 = color.Dark(uipallet.Text, 0.43)
 			versionlabel.TextSize = 10
@@ -7001,7 +6991,7 @@ components = {
 		addCorner(targetswindow)
 		local icon = Instance.new('ImageLabel')
 		icon.BackgroundTransparency = 1
-		icon.Image = getvapeasset('newvape/assets/new/aim.png')
+		icon.Image = getvapeasset('vapeburguer/assets/new/aim.png')
 		icon.Position = UDim2.fromOffset(10, 15)
 		icon.Size = UDim2.fromOffset(18, 12)
 		icon.Parent = targetswindow
@@ -7088,7 +7078,7 @@ components = {
 		
 		component.Players = components.TargetsButton({
 			Position = UDim2.fromOffset(11, 45),
-			Icon = getvapeasset('newvape/assets/new/players.png'),
+			Icon = getvapeasset('vapeburguer/assets/new/players.png'),
 			IconSize = UDim2.fromOffset(16, 16),
 			IconParent = iconholder,
 			Targets = component,
@@ -7098,7 +7088,7 @@ components = {
 		
 		component.NPCs = components.TargetsButton({
 			Position = UDim2.fromOffset(112, 45),
-			Icon = getvapeasset('newvape/assets/new/npcs.png'),
+			Icon = getvapeasset('vapeburguer/assets/new/npcs.png'),
 			IconSize = UDim2.fromOffset(12, 16),
 			IconParent = iconholder,
 			Targets = component,
@@ -7428,7 +7418,7 @@ components = {
 		button.Parent = holder
 		local icon = Instance.new('ImageLabel')
 		icon.BackgroundTransparency = 1
-		icon.Image = getvapeasset('newvape/assets/new/allowediconmini.png')
+		icon.Image = getvapeasset('vapeburguer/assets/new/allowediconmini.png')
 		icon.Position = UDim2.fromOffset(10, 14)
 		icon.Size = UDim2.fromOffset(14, 12)
 		icon.Parent = button
@@ -7470,7 +7460,7 @@ components = {
 		addCorner(textlistwindow)
 		local icon = Instance.new('ImageLabel')
 		icon.BackgroundTransparency = 1
-		icon.Image = getvapeasset('newvape/assets/new/allowedicon.png')
+		icon.Image = getvapeasset('vapeburguer/assets/new/allowedicon.png')
 		icon.Position = UDim2.fromOffset(10, 13)
 		icon.Size = UDim2.fromOffset(19, 16)
 		icon.Parent = textlistwindow
@@ -7526,7 +7516,7 @@ components = {
 		end
 		local add = Instance.new('ImageButton')
 		add.BackgroundTransparency = 1
-		add.Image = getvapeasset('newvape/assets/new/add.png')
+		add.Image = getvapeasset('vapeburguer/assets/new/add.png')
 		add.ImageColor3 = props.Color
 		add.ImageTransparency = 0.3
 		add.Position = UDim2.new(1, -26, 0, 8)
@@ -7607,7 +7597,7 @@ components = {
 				close.AutoButtonColor = false
 				close.BackgroundColor3 = Color3.new(1, 1, 1)
 				close.BackgroundTransparency = 1
-				close.Image = getvapeasset('newvape/assets/new/closetiny.png')
+				close.Image = getvapeasset('vapeburguer/assets/new/closetiny.png')
 				close.ImageColor3 = color.Light(uipallet.Text, 0.2)
 				close.ImageTransparency = 0.5
 				close.Position = UDim2.new(1, -27, 0, 8)
@@ -7966,7 +7956,7 @@ components = {
 		local knobknob = Instance.new('ImageLabel')
 		knobknob.AnchorPoint = Vector2.new(0.5, 0.5)
 		knobknob.BackgroundTransparency = 1
-		knobknob.Image = getvapeasset('newvape/assets/new/range.png')
+		knobknob.Image = getvapeasset('vapeburguer/assets/new/range.png')
 		knobknob.ImageColor3 = Color3.fromHSV(vape.GUIColor.Hue, vape.GUIColor.Sat, vape.GUIColor.Value)
 		knobknob.Position = UDim2.fromScale(0.5, 0.5)
 		knobknob.Size = UDim2.fromOffset(9, 16)
@@ -7978,7 +7968,7 @@ components = {
 		knobmaxknob.Rotation = 180
 		local arrow = Instance.new('ImageLabel')
 		arrow.BackgroundTransparency = 1
-		arrow.Image = getvapeasset('newvape/assets/new/rangeindicator.png')
+		arrow.Image = getvapeasset('vapeburguer/assets/new/rangeindicator.png')
 		arrow.ImageColor3 = color.Light(uipallet.Main, 0.14)
 		arrow.Position = UDim2.new(1, -56, 0, 10)
 		arrow.Size = UDim2.fromOffset(12, 6)
