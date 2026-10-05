@@ -6162,9 +6162,11 @@ run(function()
                     return oldIndex(self, key)
                 end
 
-                if OnlyWithBall and OnlyWithBall.Enabled and not hasBall() then
-                    return oldIndex(self, key)
-                end
+                -- ⬇️ GATE REMOVIDO: era isso que travava o tackle após o toque.
+                -- if OnlyWithBall and OnlyWithBall.Enabled and not hasBall() then
+                --     return oldIndex(self, key)
+                -- end
+
                 return false
             end
 
